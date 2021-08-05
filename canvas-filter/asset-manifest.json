@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.16863316.chunk.css",
-    "main.js": "/static/js/main.ce243b24.chunk.js",
-    "main.js.map": "/static/js/main.ce243b24.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e87517cd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e87517cd.js.map",
-    "static/js/2.17529093.chunk.js": "/static/js/2.17529093.chunk.js",
-    "static/js/2.17529093.chunk.js.map": "/static/js/2.17529093.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.16863316.chunk.css.map": "/static/css/main.16863316.chunk.css.map",
-    "static/js/2.17529093.chunk.js.LICENSE.txt": "/static/js/2.17529093.chunk.js.LICENSE.txt",
-    "static/media/4a5e48e736d12f2ef27d70b84fc2d56284356824.82cf06e7.jpg": "/static/media/4a5e48e736d12f2ef27d70b84fc2d56284356824.82cf06e7.jpg"
+    "main.css": "/canvas-filter/static/css/main.16863316.chunk.css",
+    "main.js": "/canvas-filter/static/js/main.ce243b24.chunk.js",
+    "main.js.map": "/canvas-filter/static/js/main.ce243b24.chunk.js.map",
+    "runtime-main.js": "/canvas-filter/static/js/runtime-main.e87517cd.js",
+    "runtime-main.js.map": "/canvas-filter/static/js/runtime-main.e87517cd.js.map",
+    "static/js/2.17529093.chunk.js": "/canvas-filter/static/js/2.17529093.chunk.js",
+    "static/js/2.17529093.chunk.js.map": "/canvas-filter/static/js/2.17529093.chunk.js.map",
+    "index.html": "/canvas-filter/index.html",
+    "static/css/main.16863316.chunk.css.map": "/canvas-filter/static/css/main.16863316.chunk.css.map",
+    "static/js/2.17529093.chunk.js.LICENSE.txt": "/canvas-filter/static/js/2.17529093.chunk.js.LICENSE.txt",
+    "static/media/4a5e48e736d12f2ef27d70b84fc2d56284356824.82cf06e7.jpg": "/canvas-filter/static/media/4a5e48e736d12f2ef27d70b84fc2d56284356824.82cf06e7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e87517cd.js",
